@@ -39,9 +39,9 @@
 
 <section>
   <h2>Información General</h2>
-  <p><strong>Nombre del estudiante:</strong> Juan Pérez</p>
+  <p><strong>Nombre del estudiante:</strong> David Andrade</p>
   <p><strong>Matrícula:</strong> 123456</p>
-  <p><strong>Correo institucional:</strong> juan.perez@ejemplo.edu</p>
+  <p><strong>Correo institucional:</strong> cdar_01@hotmail.com</p>
 
   <h2>Objetivo del Curso</h2>
   <p>Aprender a desarrollar aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, y frameworks modernos.</p>
@@ -54,7 +54,7 @@
   </ul>
 
   <h2>Contacto</h2>
-  <p>Para más información, contáctame por correo o visita mi <a href="https://github.com/tu-usuario" target="_blank">GitHub</a>.</p>
+  <p>Para más información, contáctame por correo o visita mi <a href="https://github.com/dvlejo" target="_blank">GitHub</a>.</p>
 </section>
 
 </body>
