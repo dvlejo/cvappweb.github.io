@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Currículum Aula Virtual - Aplicaciones Web</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #005f73;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: white;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #0a9396;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Currículum Aula Virtual</h1>
+  <p>Materia: Aplicaciones Web</p>
+</header>
+
+<section>
+  <h2>Información General</h2>
+  <p><strong>Nombre del estudiante:</strong> Juan Pérez</p>
+  <p><strong>Matrícula:</strong> 123456</p>
+  <p><strong>Correo institucional:</strong> juan.perez@ejemplo.edu</p>
+
+  <h2>Objetivo del Curso</h2>
+  <p>Aprender a desarrollar aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, y frameworks modernos.</p>
+
+  <h2>Proyectos Realizados</h2>
+  <ul>
+    <li>Sitio web personal con HTML y CSS</li>
+    <li>To-do list con JavaScript</li>
+    <li>Blog dinámico usando Firebase</li>
+  </ul>
+
+  <h2>Contacto</h2>
+  <p>Para más información, contáctame por correo o visita mi <a href="https://github.com/tu-usuario" target="_blank">GitHub</a>.</p>
+</section>
+
+</body>
+</html>
